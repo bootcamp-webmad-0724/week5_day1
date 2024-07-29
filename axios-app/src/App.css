@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    padding: 0 30px;
+}
+
+nav {
+    border-bottom: 1px solid;
+    padding: 10px;
+}
+
+nav a {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
